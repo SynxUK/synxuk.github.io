@@ -1,5 +1,11 @@
 ## Index of blogs:
 
-[Personal_Powershell_Module] - A framework for developing your own PowerShell toolkit in a scalable framework.
+PowerShell> [Personal Module] - for developing your own ever growing PowerShell toolkit in a scalable and distributed framework.
 
-[Personal_Powershell_Module]: <https://synxuk.github.io/personal_powershell_module/>
+Azure> [Automation DSC]
+
+
+
+[Personal Module]: <https://synxuk.github.io/blogs/personalmodule.html>
+
+[Automation DSC]: <https://synxuk.github.io/blogs/automationdsc.html>
