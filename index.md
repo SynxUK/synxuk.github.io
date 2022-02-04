@@ -1,8 +1,9 @@
 ## Index of blogs:
 
-PowerShell> [Personal Module] - for developing your own ever growing PowerShell toolkit in a scalable and distributed framework.
-
-Azure> [Automation DSC]
+| Subject | Blog | Description                       |
+|-|-|-|
+|PowerShell|[Personal Module]| For developing your own ever growing PowerShell toolkit in a scalable and distributed framework.|
+|Azure|[Automation DSC]|Provisioning your development environment Azure VM using PowerShell DSC, Azure and automation accounts
 
 
 
