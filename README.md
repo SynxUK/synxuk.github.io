@@ -6,4 +6,4 @@ This blog is where I document and share knowledge of solutuions to some challeng
 [Personal_Powershell_Module] - A framework for developing your own PowerShell toolkit in a scalable framework.
 
 
-[Personal_Powershell_Module]: <https://synxuk.github.io/PersonalPowershellModule.html>
+[Personal_Powershell_Module]: <https://synxuk.github.io/PersonalPowershellModule.md>
